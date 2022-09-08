@@ -1,1 +1,1 @@
-# Note Taker Starter Code
+An app to help you take notes, edit them and delete them when you're done. 
