@@ -9,6 +9,7 @@
   "author": "Chris Broussard",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.0.2",
     "express": "^4.16.4",
     "fs": "^0.0.1-security",
     "mongodb": "^4.9.1",
