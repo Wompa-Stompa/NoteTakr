@@ -136,7 +136,7 @@ const renderNoteList = async (notes) => {
       delBtnEl.addEventListener('click', handleNoteDelete);
       liEl.append(delBtnEl);
     }
-    return liEl;
+    return libEl;
   };
 
   if (jsonNotes.length === 0) {
